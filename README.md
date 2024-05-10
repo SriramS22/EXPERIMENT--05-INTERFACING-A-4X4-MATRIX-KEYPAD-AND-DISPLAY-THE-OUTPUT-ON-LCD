@@ -1,7 +1,6 @@
-```
-Name: SRI RAM S
-Register Number: 21222224005
-```
+#### Name: SRI RAM S
+#### Register Number: 212222240105
+
 # EXPERIMENT 05 INTERFACING A 4X4 MATRIX KEYPAD AND DISPLAY THE OUTPUT ON LCD
 
 ## Aim: 
